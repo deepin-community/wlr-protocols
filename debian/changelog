@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+wlr-protocols (0.0+git20231016-0deepin) unstable; urgency=medium
 
-  * Initial release
+  * Initial release for develop
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- rewine <luhongxu@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
